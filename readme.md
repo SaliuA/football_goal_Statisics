@@ -24,7 +24,7 @@ $H_0$ : The mean number of goals scored in women's international soccer matches 
 $H_A$ : The mean number of goals scored in women's international soccer matches is greater than men's.
 
 ## Summary
-In summay, we can conlude that ther are more goals scored in the women sport than the mens sport
+The Mann-Whitney U test results were compelling. With a p-value of 0.0051, significantly less than our significance level of 0.1, we rejected the null hypothesis. This led us to the conclusion that the average number of goals scored in women’s international soccer matches is indeed greater than in men’s matches.
 
 ### Built With
 
